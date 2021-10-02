@@ -13,7 +13,7 @@ import { Button } from "fosscord-ui-react";
 export default function App {
     return (
         <>
-            <Button primary=true>Test button</Button>
+            <Button primary={true}>Test button</Button>
         </>
     );
 }
