@@ -1,7 +1,7 @@
 {
     "name": "fosscord-ui-react",
     "description": "A set of React components for Fosscord UI framework.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "index.js",
     "directories": {
         "lib": "lib"
