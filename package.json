@@ -1,12 +1,17 @@
 {
     "name": "fosscord-ui-react",
     "description": "A set of React components for Fosscord UI framework.",
-    "scripts": {
-        "build": "tsc"
+    "version": "1.0.2",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
     },
     "files": [
         "/lib"
     ],
+    "scripts": {
+        "build": "tsc"
+    },
     "module": "./lib/esm/index.js",
     "types": "./lib/esm/index.d.ts",
     "dependencies": {
@@ -15,11 +20,6 @@
         "@types/react": "^17.0.26",
         "react": "^17.0.2",
         "typescript": "^4.4.3"
-    },
-    "version": "1.0.1",
-    "main": "index.js",
-    "directories": {
-        "lib": "lib"
     },
     "repository": {
         "type": "git",
