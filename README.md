@@ -8,7 +8,7 @@ First, install it with npm:
 
 Then, you can include it like below (For a Create React App project):
 ```jsx
-import { Button } "fosscord-ui-react";
+import { Button } from "fosscord-ui-react";
 
 export default function App {
     return (
